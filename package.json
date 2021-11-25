@@ -9,7 +9,8 @@
     "rollup": "rollup -c",
     "test": "jest",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "publish": "yarn rollup"
   },
   "author": "Carlos Azocar",
   "license": "ISC",
