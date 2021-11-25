@@ -11,7 +11,7 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
-  "author": "YOUR_NAME",
+  "author": "Carlos Azocar",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.16.0",
