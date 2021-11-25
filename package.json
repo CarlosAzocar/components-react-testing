@@ -3,6 +3,10 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CarlosAzocar/components-react-testing.git"
+  },
   "version": "0.1.0",
   "description": "A simple template for a custom React component library",
   "scripts": {
